@@ -1,3 +1,10 @@
+# Ben Wilcox's First Cs193 Homework
+
+- CS193 helps me learn useful tools for my computer science degree and work expierience
+- I enjoy my lecturers as they go in depth and make class engaging
+- I can make friends in CS193
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
